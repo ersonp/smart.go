@@ -5,7 +5,7 @@ import (
 	"os/exec"
 	"testing"
 
-	"github.com/anatol/smart.go"
+	"github.com/ersonp/smart.go"
 	"github.com/stretchr/testify/require"
 )
 
